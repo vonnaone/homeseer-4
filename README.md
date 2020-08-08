@@ -56,13 +56,13 @@ This image currently only runs on amd64/x86_64.
 
 ### Issues / Contributing
 
-Please raise any issues with this container, including any missing plugin dependencies, at its GitHub repo: https://github.com/e1ite/docker-homeseer4. Please check the "Gotchas / Known Issues" section above before raising an Issue on GitHub in case the issue is already known.
+Please raise any issues with this container, including any missing plugin dependencies, at its GitHub repo: https://github.com/vonnaone/docker-homeseer4. Please check the "Gotchas / Known Issues" section above before raising an Issue on GitHub in case the issue is already known.
 
 To contribute, please fork the GitHub repo, create a feature branch, and raise a Pull Request; for simple changes/fixes, it may be more effective to raise an Issue instead.
 
 ### Acknowledgments
 
-This image was inspired by @marthoc's HomeSeer image (on Docker Hub at marthoc/homeseer)
+This image was inspired by @marthoc's HomeSeer image (on Docker Hub at marthoc/homeseer) and @E1iTeDa357.
 
 ### Changelog
 
