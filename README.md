@@ -1,6 +1,6 @@
 ## HomeSeer HS4 Docker Image
 
-This image containerizes the HomeSeer HS4 home automation software. 
+This image containerizes the HomeSeer HS4 home automation software.. 
 
 Current HomeSeer version: **HS4 4.1.9.0**
 
