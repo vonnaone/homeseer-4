@@ -11,9 +11,9 @@ jobs:
         uses: christian-korneck/update-container-description-action@v1
         env:
           DOCKER_USER: ${{ secrets.DOCKERHUB_USERNAME }}
-          DOCKER_PASS: ${{ secrets.DOCKERHUB_PASSWORD }}
+          DOCKER_PASS: ${{ secrets.DOCKER_PASSWORD }}
         with:
-          destination_container_repo: my-user/my-repo
+          destination_container_repo: vonnaone/homeseer-4
           provider: dockerhub
-          short_description: 'my short description 😊'
+          short_description: 'Homeseer 4 Docker Image'
           readme_file: 'README.md'
