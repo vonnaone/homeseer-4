@@ -3,4 +3,4 @@
       with:
         username: ${{ secrets.DOCKERHUB_USERNAME }}
         password: ${{ secrets.DOCKERHUB_TOKEN }}
-        repository: peterevans/dockerhub-description
+        repository: vonnaone/dockerhub-homeseer4
