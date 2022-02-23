@@ -15,5 +15,5 @@ jobs:
         with:
           destination_container_repo: vonnaone/homeseer-4
           provider: dockerhub
-          short_description: 'Homeseer 4 Docker Image'
+          short_description: 'Homeseer 4 Docker Image for test purposes'
           readme_file: 'README.md'
